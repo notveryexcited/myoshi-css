@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: hsl(0, 0%, 5%);
+  display: inline-box;
+}
+
+.profile-page.profile-custom-css {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  letter-spacing: -1px;
+  background-color: #222222;
+}
+
+p.emote-editor-paragraph span {
+  font-size: 16px;
+  color: hsl(300, 60%, 20%);
+  line-height: 0.9;
+}
+
+div, span, p, {
+  background-color: #CCCCCC;
+  border: none;
+}
+
+div.card {
+  border: none;
+}
+
+div.card-header {
+  background: none;
+  border: none;
+  background-color: #552255;
+  text-transform: lowercase;
+  font-weight: 1000;
+  font-size: 16px;
+}
+
+div.interest-title {
+  text-transform: lowercase;
+  font-weight: 200;
+  font-size: 18px;
+  color: black;
+}
+
+div.interest-content {
+  letter-spacing: 0px;
+}
+
+div.card-header::before {
+  display: none;
+}
+.header a {
+  font-family: "DM Sans", sans-serif !important;
+  color: red !important;
+}
