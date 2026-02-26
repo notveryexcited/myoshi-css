@@ -59,4 +59,5 @@ div.card-header::before {
   background: none;
   background-color: #552255 !important;
   border: none;
+  box-shadow: none;
 }
