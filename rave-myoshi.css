@@ -53,6 +53,8 @@ div.card-header::before {
 }
 .header a {
     font-family: "DM Sans", sans-serif !important;
+    text-shadow: none;
+    filter: none;
 }
 
 .header-top, .header-inner, .header-nav-bar, .header-nav-bar-secondary {
