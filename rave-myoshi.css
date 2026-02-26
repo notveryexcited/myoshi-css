@@ -52,9 +52,9 @@ div.card-header::before {
   display: none;
 }
 .header a {
-    font-family: "DM Sans", sans-serif !important;
-    text-shadow: none;
-    filter: none;
+  font-family: "DM Sans", sans-serif !important;
+  text-shadow: none;
+  filter: none;
 }
 
 .header a:hover {
@@ -70,4 +70,9 @@ div.card-header::before {
 .header {
   background: none;
   background-color: #552255 !important;
+}
+
+.user-avatar.profile-avatar{
+    width: 256px !important;
+    height: 256px !important;
 }
