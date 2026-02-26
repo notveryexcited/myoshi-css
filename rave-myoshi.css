@@ -57,6 +57,10 @@ div.card-header::before {
     filter: none;
 }
 
+.header a:hover {
+  color:hsl(282, 92%, 10%)
+}
+
 .header-top, .header-inner, .header-nav-bar, .header-nav-bar-secondary {
   background: none;
   border: none;
