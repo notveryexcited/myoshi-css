@@ -62,5 +62,6 @@ div.card-header::before {
 }
 
 .header {
+  background: none;
   background-color: #552255 !important;
 }
