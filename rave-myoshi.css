@@ -54,3 +54,7 @@ div.card-header::before {
 .header a {
     font-family: "DM Sans", sans-serif !important;
 }
+
+.header-top, .header-inner, .header-nav-bar, .header-nav-bar-secondary {
+  background-color: #552255;
+}
