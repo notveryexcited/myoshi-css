@@ -57,4 +57,6 @@ div.card-header::before {
 
 .header-top, .header-inner, .header-nav-bar, .header-nav-bar-secondary {
   background-color: #552255;
+  border: none;
+  background: none;
 }
